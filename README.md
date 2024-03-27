@@ -23,4 +23,7 @@ git stash apply #to apply
 
 #Commit your unfinished work, switch branches, do your work, switch back to new_branch, and revert the most recent commit.
 #Completely get rid of the changes you had made, switch branches, do your work, switch back to new_branch, and start all over again.
+ # to see log 
+ git log
 
+ # hi test1
